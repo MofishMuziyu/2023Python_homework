@@ -12,7 +12,7 @@ Neighbor list info ...
       bin: standard
 WARNING: Proc sub-domain size < neighbor skin, could lead to lost atoms (src/domain.cpp:963)
 Per MPI rank memory allocation (min/avg/max) = 4.263 | 4.265 | 4.267 Mbytes
-Step CPU Time Temp Press Volume Density TotEng 
+Step        CPU                Time   Temp         Press        Volume       Density      TotEng
        0            0            0    5134.0502    4688153.3    2461.6031    6.9602277   -552653.46 
      100     2.023484          0.1    5147.3637    4699951.2    2462.3026    6.9582505   -552653.52 
      200    4.0488899          0.2    5104.9449    4700312.2    2463.4798    6.9549255    -552648.8 
